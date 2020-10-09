@@ -1,0 +1,1 @@
+C:\Workshop\ImageAPI\ImageAPI\bin\Debug\netcoreapp2.2\ImageAPI.dll
